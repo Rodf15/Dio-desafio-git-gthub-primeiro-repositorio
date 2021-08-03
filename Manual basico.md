@@ -1,4 +1,8 @@
-# Criando um Repositório
+# Manual básico Git/Github
+
+
+
+### criando primeiro repositório  
 
 Primeiramente acesse o site [Github](www.github.com) e crie sua conta, o processo é bem simples como podemos ver abaixo:
 
@@ -70,7 +74,25 @@ git clone "link copiado sem aspas"
 
 #### pronto!... O repositório já estará copiado em sua maquina.
 
+Para reenviar os arquivos clonados após modificações, utilize os comandos:
 
+- Para adicionar:
+
+  git add . 
+
+- Para "commitar"
+
+  git commit -m "nome dado a commit"
+
+- Para enviar('Pushar') ao Github
+
+  git push origin main
+
+
+
+Fiz o manual de forma simples e básica, contribuam com ele  lá no [Github](https://github.com/Rodf15/Dio-desafio-git-gthub-primeiro-repositorio.git), qualquer critica construtiva estamos ai!... abraços!!! 
+
+P.S.  As definições do que é Git e Github estão em outra pasta deste repositório.
 
 
 
