@@ -6,7 +6,7 @@
 
 Primeiramente acesse o site [Github](www.github.com) e crie sua conta, o processo é bem simples como podemos ver abaixo:
 
-![](C:\Users\Rodrigo Furtado\Desktop\imagem\Capturar1.PNG)
+![image-20210804160405423](C:\Users\Rodrigo Furtado\AppData\Roaming\Typora\typora-user-images\image-20210804160405423.png)
 
 Depois de sua conta criada clique em New Repository, no canto superior direito, como na imagem abaixo:
 
