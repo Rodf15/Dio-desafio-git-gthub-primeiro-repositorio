@@ -16,7 +16,7 @@ Defina o nome ,descrição e tipo de projeto:
 
 ![](C:\Users\Rodrigo Furtado\Desktop\imagem\Capturar.PNG)
 
-Agora vamos adicionar o seu projeto local ao seu Repositório no Github, clique com o botão direito do seu mouse, depois clique em 'Git Bash Here' dentro da pasta onde esta seu repositório.
+Agora, assumindo que você já tem o git instalado na sua maquina, vamos adicionar o seu projeto local ao seu Repositório no Github, clique com o botão direito do seu mouse, depois clique em 'Git Bash Here' dentro da pasta onde esta seu repositório.
 
 ![](C:\Users\Rodrigo Furtado\Desktop\imagem\Capturar2.PNG)
 
