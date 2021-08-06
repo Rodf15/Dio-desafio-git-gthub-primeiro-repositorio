@@ -6,23 +6,23 @@
 
 Primeiramente acesse o site [Github](www.github.com) e crie sua conta, o processo é bem simples como podemos ver abaixo:
 
-![image-20210804160405423](C:\Users\Rodrigo Furtado\AppData\Roaming\Typora\typora-user-images\image-20210804160405423.png)
+https://drive.google.com/file/d/1mkUFMMwn9jzyCrFKwUlS-J70VVmQszT6/view?usp=sharing
 
 Depois de sua conta criada clique em New Repository, no canto superior direito, como na imagem abaixo:
 
-![](C:\Users\Rodrigo Furtado\Desktop\imagem\1_WkZqiJ8JXvDLe0rdl6d_AQ.png)
+https://drive.google.com/file/d/12SX2OICnKWCYqwuXdsrRsFlNzL4Pnp1H/view?usp=sharing
 
 Defina o nome ,descrição e tipo de projeto:
 
-![](C:\Users\Rodrigo Furtado\Desktop\imagem\Capturar.PNG)
+https://drive.google.com/file/d/12SX2OICnKWCYqwuXdsrRsFlNzL4Pnp1H/view?usp=sharing
 
 Agora, assumindo que você já tem o git instalado na sua maquina, vamos adicionar o seu projeto local ao seu Repositório no Github, clique com o botão direito do seu mouse, depois clique em 'Git Bash Here' dentro da pasta onde esta seu repositório.
 
-![](C:\Users\Rodrigo Furtado\Desktop\imagem\Capturar2.PNG)
+https://drive.google.com/file/d/1nUsDe3f1vSG3-szkdiKcFV1JftGza7XW/view?usp=sharing
 
 Digite o comando 'git init' em seu terminal
 
- ![](C:\Users\Rodrigo Furtado\Desktop\imagem\Capturar3.PNG)
+https://drive.google.com/file/d/1h0Hltzlj2lHNtOep6tfzKt0DMCSs4W2c/view?usp=sharing
 
 Se for a primeira vez que você estiver usando o Git é importante que você configure seu email e nome para que sempre que criar um commit ele tenha um autor, useremos os seguintes com os seguintes comandos:
 
@@ -66,7 +66,7 @@ Abra o "git bash" no diretorio onde quer que o arquivo fique, no [Github](www.gi
 
 
 
-![](C:\Users\Rodrigo Furtado\Desktop\imagem\Capturar5.PNG)
+https://drive.google.com/file/d/1s-av4dyzYxBxgmm0HQsl-CaIahM5vlEh/view?usp=sharing
 
 No seu terminal use o seguinte comando:
 
